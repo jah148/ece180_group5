@@ -1,3 +1,7 @@
 # Log Files
 *.log*
 
+# Compressed Files
+*.zip
+*.tar.bz
+*.tar
