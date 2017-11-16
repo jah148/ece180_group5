@@ -10,3 +10,7 @@ Example: Data file "e20161ak0029000.txt" matches "Seq29.xls"
 
 
 TODO: Fill this folder with only the relevant raw data that we will use for the data visualization project. That is, items like population data, salary earnings, number of majors obtained, etc.
+
+A quick and easy way to look for specific census data (on their website...):
+
+https://factfinder.census.gov/faces/nav/jsf/pages/index.xhtml
