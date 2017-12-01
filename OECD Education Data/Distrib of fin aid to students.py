@@ -15,6 +15,7 @@ plt.text(9,65,'National students, based on full-time students',fontstyle='italic
 plt.ylabel("%")
 plt.xticks(range(9) ,('England','Norway','Austrailia','United States',
 						'Turkey','Finland','Chile','Italy','Switzerland'))
+plt.yticks(range(0,100,10))
 plt.legend(bbox_to_anchor = (1.04,1), borderaxespad = 0)
 plt.show()
 
