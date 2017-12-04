@@ -45,3 +45,4 @@ def graph(df3):
     plt.ylabel("Percent of Employment")
     plt.show()
 
+graph(df3)
