@@ -1,6 +1,13 @@
 import pandas as pd
 import matplotlib.pyplot as plt
 
+'''Data is derived from EuroStat 
+(http://ec.europa.eu/eurostat/statistics-explained/index.php
+/File:Employment_rate_of_recent_graduates,_EU-28,_2006-2016.png) for European
+countries and US data from US Bureau of Labor Statistics (https://www.bls.gov/opub/ted/2017
+/unemployment-rate-2-point-5-percent-for-college-grads-7-point-7-percent-for-high-school-dropouts-january-2017.htm).
+Data was only downloadable as a .tsv extension file so I built the data frame myself.'''
+
 raw_data = {'Years': ['2008','2009','2010','2011','2012','2013','2014','2015','2016'],
   'EU': [86.1,86.9,83.8,82.7,82.6,81.6,81.0,80.6,82.0]96.8],
   'Germany': [92.5,92.9,90.1,94.2,93.8,94.1,93.1,93.3,93.1],
@@ -9,9 +16,10 @@ raw_data = {'Years': ['2008','2009','2010','2011','2012','2013','2014','2015','2
   'United States': [96.8,95.2,95.0,95.6,98.6,96.9,96.8,97.5,97.7]}
   
 df3 = pd.DataFrame(raw_data, columns= ['Years','EU','Germany','Turkey','UK','United States'])
-'''There are 5 countries I need to show there progression of employed college graduates who have graduated 1-3
-years ago. Plotting all 5 plots on one graph would be too messy so each country individually plotted will
-be more readable'''
+
+'''There are 5 countries that I need to show there progression of employed college graduates who been out of their studies 
+for 1-3 years. Plotting all 5 plots on one graph would be too messy so each country individually plotted will
+be more readable.'''
 
 def graph(df3):
     x = list(df3.Years)
