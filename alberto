@@ -35,7 +35,7 @@ def graph(df3):
     plt.xlabel("Years of Data Points")
     plt.ylabel("Percent of Employment")
     plt.show()
-
+    
     plt.plot(x,df3.United_States)
     plt.title("Percentage of Employed Recent College Graduates: United States")
     plt.xlabel("Years of Data Points")
