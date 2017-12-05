@@ -16,11 +16,11 @@ for-high-school-dropouts-january-2017.htm).'''
 hindered compared to those of having completed this level of education. One
 way this is noteable is through employment percentage'''
 
-filename = '/Users/albertopineda/Desktop/Employment_College_Graduates_1-3years_graduated.csv'
+filename = 'Employment_College_Graduates_1-3years_graduated.csv'
 assert isinstance(filename, str)
 df = pd.read_csv(filename, delimiter='\t')
 
-filename1 = '/Users/albertopineda/Desktop/Employment_without_Tertiary_Education.csv'
+filename1 = 'Employment_without_Tertiary_Education.csv'
 assert isinstance(filename1, str)
 df1 = pd.read_csv(filename1)
 
