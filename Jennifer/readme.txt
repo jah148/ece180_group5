@@ -8,5 +8,3 @@ Socioeconomic Factors:
     3. Social Equality -- Quantitative indicators：Gini coefficient
 
 I think we can use these three socioeconomic factors as criteria to judge whether a country does good in higher education policy.
-
-As this is a draft of my idea, I will later add on doc strings and asserts to  the code.
