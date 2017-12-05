@@ -10,16 +10,16 @@ In depth tertiary education data from various countries.
 [EuroStat](https://ec.europa.eu/eurostat)    
 Database for the European Commission. Data is stored in tsv files as raw or web-manipulated sets.
 
-[US Bureau of Labor Statistics](https://www.bls.gov/
+[US Bureau of Labor Statistics](https://www.bls.gov/)
 Data from surveys sponsored by the US Bureau of Labor Statistics. Data is downloadable in .csv type 
 as raw.
 
 
 ## Visualizer Code Links
-[Class Notes] (https://class-notes-181217.appspot.com/hour_9.html)
+[Class Notes](https://class-notes-181217.appspot.com/hour_9.html)
 
-[Github] (https://github.com)
+[Github](https://github.com)
 
-[Matplotlib] (https://matplotlib.org)
+[Matplotlib](https://matplotlib.org)
 
-[Stackoverflow] (https://stackoverflow.com)
+[Stackoverflow](https://stackoverflow.com)
