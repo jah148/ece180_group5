@@ -7,4 +7,4 @@ Socioeconomic Factors:
     2. Social Mobility -- Quantitative indicators：Intergenerational mobility
     3. Social Equality -- Quantitative indicators：Gini coefficient
 
-I think we can use these three socioeconomic factors as criteria to judge whether a country does good in higher education policy.
+This feature accompanied with other features accomplished with teammates are used to judge the input of government on education, while the socio-economic factors as well as the socio-ecomomic status of students set up the valuations system to judge education policies.
