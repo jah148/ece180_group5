@@ -14,6 +14,12 @@ Database for the European Commission. Data is stored in tsv files as raw or web-
 Data from surveys sponsored by the US Bureau of Labor Statistics. Data is downloadable in .csv type 
 as raw.
 
+[Knoema Dataset](https://knoema.com/atlas/topics/Research-and-Development/datasets)
+Research expenditures
+
+[Economic Mobility Project] Corak, Miles.2006, 13 no.1: 143-188; Ueda, A. (2009). Intergenerational mobility of earnings and income in Japan. B.E. Journal of Economic Analysis and Policy, 9(1), [54]
+
+[Countries Ranked by GINI Index](https://www.indexmundi.com/facts/indicators/SI.POV.GINI/rankings/europe)
 
 ## Visualizer Code Links
 [Class Notes](https://class-notes-181217.appspot.com/hour_9.html)
